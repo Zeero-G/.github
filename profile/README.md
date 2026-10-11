@@ -69,15 +69,6 @@
 
 ---
 
-### 🎯 Key Engineering Standards
-
-- **🔒 Zero-Trust Security & Data Sovereignty**: Robust encryption at rest and in transit, strict RBAC, and granular auditability.
-- **⚡ High Performance & Low Latency**: Asynchronous microservices built for maximum throughput and predictable scaling.
-- **🧩 Modular Architecture**: Decoupled domain services that integrate seamlessly with legacy stacks or modern cloud infrastructures.
-- **📈 Pragmatic AI Deployment**: Focusing on measurable business ROI, reliability, and human-in-the-loop safeguards.
-
----
-
 ### 🤝 Connect & Collaborate
 
 We are actively developing open-source tools and enterprise-grade products. Whether you're interested in partnering, piloting an AI solution, or contributing to our projects:
